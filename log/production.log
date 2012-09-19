@@ -3,3 +3,8 @@ Migrating to CreateUsers (20120919093608)
 Migrating to AddEmailUniquenessIndex (20120919100642)
 Migrating to AddPasswordToUsers (20120919161051)
 Migrating to AddSaltToUsers (20120919162608)
+Connecting to database specified by database.yml
+Migrating to CreateUsers (20120919093608)
+Migrating to AddEmailUniquenessIndex (20120919100642)
+Migrating to AddPasswordToUsers (20120919161051)
+Migrating to AddSaltToUsers (20120919162608)
